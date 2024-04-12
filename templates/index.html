@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>VANT</title>
+    <style>
+        /* Centered div */
+        .centered-div {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: ##0000000d; /* Light cream */
+            padding: 20px;
+            border-radius: 10px; /* Rounded corners */
+            font-family: "Arial", sans-serif; /* Arial Mono font family */
+            font-size: 12pt; /* 12pt font size */
+            box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3); /* Increased distance and diffusion */
+        }
+
+        /* Black square button */
+        .square-button, .styled-form {
+            background-color: #000; /* Black */
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 5px; /* Rounded corners */
+            box-shadow: 15px 15px 55px rgba(0, 0, 0, 0.4); /* Increased distance and diffusion */
+        }
+
+        /* Remove default input styles */
+        .styled-form input[type="text"], .styled-form input[type="submit"] {
+            border: none;
+            padding: 10px;
+            border-radius: 5px; /* Rounded corners */
+            box-shadow: 15px 15px 55px rgba(0, 0, 0, 0.4); /* Light drop shadow */
+            margin-bottom: 10px;
+            width: calc(100% - 20px); /* Adjusted for padding */
+        }
+
+        /* Align submit button with text inputs */
+        .styled-form input[type="submit"] {
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="centered-div">
+        <h1>Query GDELT API</h1>
+        <form class="styled-form" action="/query_api" method="post">
+            <input type="text" id="query" name="query" placeholder="Enter your query">
+            <input type="submit" value="Submit">
+        </form>
+        <button class="square-button" onclick="redirectToResults()">Results!</button>
+    </div>
+
+    <script>
+        function redirectToResults() {
+            // Redirect to /results
+            window.location.href = "/results";
+        }
+    </script>
+</body>
+</html>

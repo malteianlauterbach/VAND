@@ -1,0 +1,48 @@
+Title: Russia-Ukraine conflict: Putin warns of 'bloodshed' as West accuses Moscow of 'false flag' operation | Sky News
+Context: Russia has amassed more than 100,000 troops near Ukraine's borders, sparking fears of an invasion. Western countries have accused Moscow of orchestrating a "false flag" operation to justify military action.
+Sentence: Russia has amassed more than 100,000 troops near Ukraine's borders, sparking fears of an invasion.
+Social Image: https://e3.365dm.com/22/01/1600x900/skynews-ukraine-russia_5883664.jpg
+Sentiment Polarity: -0.2
+
+Title: COVID-19: WHO warns of 'tsunami' of cases in Europe as Omicron spreads | BBC News
+Context: The World Health Organization has issued a warning about the rapid spread of the Omicron variant in Europe, urging countries to take immediate action to curb the surge in cases.
+Sentence: The World Health Organization has issued a warning about the rapid spread of the Omicron variant in Europe.
+Social Image: https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9F/production/_123797366_gettyimages-1232763666.jpg
+Sentiment Polarity: -0.1
+
+Title: US Capitol riot: Donald Trump 'more likely than not' obstructed Congress, says judge | The Guardian
+Context: A federal judge has ruled that former President Donald Trump likely obstructed Congress in his efforts to overturn the 2020 election results, marking a significant legal setback for Trump.
+Sentence: A federal judge has ruled that former President Donald Trump likely obstructed Congress in his efforts to overturn the 2020 election results.
+Social Image: https://i.guim.co.uk/img/media/7b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3
+=========================================
+Summary: Hezbollah poses a significant threat to Israel with its large stockpile of rockets, history of deadly terror attacks, facilitation of Iranian expansionism, and control over Lebanese politics. 
+
+Title: COVID-19 Cases Surge in India, Hospitals Overwhelmed
+Context: India is currently facing a devastating surge in COVID-19 cases, with hospitals overwhelmed and running out of essential supplies such as oxygen. The country has been reporting record-breaking numbers of new infections and deaths, leading to a dire situation for healthcare workers and patients alike.
+Sentence: India is currently facing a devastating surge in COVID-19 cases, with hospitals overwhelmed and running out of essential supplies such as oxygen.
+Social Image: https://images.indianexpress.com/2021/04/india-covid-19-cases-1200.jpg
+Sentiment Polarity: -0.5
+
+Summary: India is experiencing a severe surge in COVID-19 cases, leading to overwhelmed hospitals and shortages of essential supplies like oxygen. 
+
+Title: SpaceX Successfully Launches Crew-2 Mission to International Space Station
+Context: SpaceX has successfully launched its Crew-2 mission to the International Space Station, carrying four astronauts from NASA, ESA, and JAXA. The mission marks the third crewed flight for SpaceX's Crew Dragon spacecraft and continues the company's partnership with NASA in providing transportation to the ISS.
+Sentence: SpaceX has successfully launched its Crew-2 mission to the International Space Station, carrying four astronauts from NASA, ESA, and JAXA.
+Social Image: https://cdn.cnn.com/cnnnext/dam/assets/210423000000-01-crew-2-launch-0423-super-tease.jpg
+Sentiment Polarity: 0.5
+
+Summary: SpaceX successfully launched its Crew-2 mission to the International Space Station, carrying four astronauts from NASA, ESA, and JAXA.
+=========================================
+Hezbollah and the UAE are working to overcome past problems with the help of Syrian mediation.
+=========================================
+Crude prices strengthen due to geopolitical risks and improved global energy demand.
+=========================================
+Summary: IDF reported that a Hezbollah bomb hit UNIFIL workers amidst the ongoing conflict between Israel and Hezbollah.
+=========================================
+In the last 48 hours, tensions have escalated in the Middle East as Israel's strike on the Iranian embassy in Damascus raises concerns about the potential for drawing the US into the conflict.
+=========================================
+Title: US to Send 500 Million Pfizer Vaccine Doses to 100 Countries in Need
+Context: The Biden administration announced plans to distribute 500 million doses of the Pfizer-BioNTech COVID-19 vaccine to 100 countries in need, with the first 200 million doses to be delivered by the end of this year.
+Sentence: The Biden administration announced plans to distribute 500 million doses of the Pfizer-BioNTech COVID-19 vaccine to 100 countries in need.
+Social Image: https://img.usnews.com/dims4/USNEWS/0f4b4d3/2147483647/resize/1200x%3E/quality/85/?url=https%3A%2F%2Fmedia.beam.usnews.com%2Ff6%2Ff6b1b1b1f1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b1b
+=========================================

@@ -1,0 +1,252 @@
+Title: As Hezbollah-Israel Tensions Simmer, Lebanons Domestic Crises Drag On | United States Institute of Peace
+Context: What is the calculus of each side regarding an escalation to full-fledged conflict? Cross-border hostilities between Hezbollah and Israel continue to escalate, yet the violence has not exploded into an all-out war. Since October, the Israel-Lebanon border has been a major flashpoint, with cross-border fire occurring nearly daily.
+Sentence: Cross-border hostilities between Hezbollah and Israel continue to escalate, yet the violence has not exploded into an all-out war.
+Social Image: https://www.usip.org/sites/default/files/styles/medium/public/2024-04/20240401_israel-hezbollah-_nyt_qa.jpg?itok=Ql3bTZdy
+Sentiment Polarity: 0.0
+===
+Title: All You Need to Know About The Hezbollah Threat to Israel
+Context: No matter what its apologists say, the Hezbollah threat to Israel cannot be minimized or explained away. Since its founding in the 1980s, Hezbollah has amassed a stockpile of rockets larger than all the combined armies of Europe, carried out some of the deadliest terror attacks around the world, and now facilitates Iranian expansionism. Led by Sheikh Hassan Nasrallah, Hezbollah has also managed to maintain a stranglehold on Lebanese domestic politics.
+Sentence: Since its founding in the 1980s, Hezbollah has amassed a stockpile of rockets larger than all the combined armies of Europe, carried out some of the deadliest terror attacks around the world, and now facilitates Iranian expansionism.
+Social Image: https://s36667.pcdn.co/wp-content/uploads/2020/12/Hezbollah-threat.jpg.optimal.jpg
+Sentiment Polarity: 0.0
+===
+Title: Will Hezbollah and the UAE overcome past problems?
+Context: took place in Damascus with Safa and UAE National Security Advisor Sheikh Tahnoon bin Zayed al-Nahyan leading their respective sides in the Syrian capital. This initiation of Syrian mediation between Hezbollah and the UAE began before the outbreak of Israel's war on Gaza in October 2023. Of course, the UAE's rapprochement with Syria and détente with Iran contributed to the conditions that made a high-ranking Hezbollah official's visit to Abu Dhabi feasible for both the Lebanese organisation and the UAE.
+Sentence: This initiation of Syrian mediation between Hezbollah and the UAE began before the outbreak of Israel's war on Gaza in October 2023.
+Social Image: https://www.newarab.com/sites/default/files/styles/600x338/public/1397091985.jpeg?h=a5f2f23a&itok=iM2DJ-Eo
+Sentiment Polarity: 0.0
+===
+Title: Crude Prices Strengthen on Geopolitical Risks and Improved Global Energy Demand
+Context: Crude prices have underlying support from the Israel-Hamas war and concern that all-out war might spread to Lebanon. Hezbollah and Israel have traded fire almost daily since the Israel-Hamas war erupted on October 7. Also, the US and UK have engaged in airstrikes against Houthi rebels in Yemen in retaliation for Houthi attacks on commercial shipping in the Red Sea. Attacks on commercial shipping in the Red Sea by Iran-backed Houthi rebels have forced shippers to divert shipments around the southern tip of Africa instead of going through the Red Sea, disrupting global crude oil supplies.
+Sentence: Hezbollah and Israel have traded fire almost daily since the Israel-Hamas war erupted on October 7.
+Social Image: 
+Sentiment Polarity: 0.0
+===
+Title: IDF says Hezbollah bomb hit UNIFIL workers
+Context: It is the U.N.'s longest-running observer mission, operating since 1978. Israel has been engaged in a low-intensity conflict with Hezbollah since the terrorist group joined the current war in support of Hamas following the Oct. 7 atrocities in the northwestern Negev. Tens of thousands of Israelis have been evacuated from areas close to the northern border that have seen near-daily rocket, mortar and drone attacks from Lebanon.
+Sentence: Israel has been engaged in a low-intensity conflict with Hezbollah since the terrorist group joined the current war in support of Hamas following the Oct. 7 atrocities in the northwestern Negev.
+Social Image: https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg
+Sentiment Polarity: 0.0
+===
+Title: Was Israels Strike on Iranian Embassy in Damascus an attempt to draw the US into the War?
+Context: Tehran appears to have restrained the Iraqi Shiite militias that targeted US troops, killing 3 in Jordan. It has also advised Hezbollah in southern Lebanon not to risk an all-out war with Israel, though the Netanyahu government appears to be spoiling for one. The Israeli attack on the Iranian embassy in Damascus could undo that restraint.
+Sentence: It has also advised Hezbollah in southern Lebanon not to risk an all-out war with Israel, though the Netanyahu government appears to be spoiling for one.
+Social Image: https://media.juancole.com/images/2024/04/was-israels-strike-on-iranian-em.jpg
+Sentiment Polarity: 0.0
+===
+Title: Even Before It Killed Aid Workers in Gaza, the World Had Run Out of Patience With Israel - Israel News
+Context: In the Gaza Strip, an airstrike in which the Israel Defense Forces mistakenly killed seven workers of a foreign aid organization will increase the international pressure over the humanitarian crisis. In Lebanon and Syria, Israel hopes that increasing strikes against Hezbollah and Iran will deter them from embarking on a full-scale war. On both fronts, it is hard to discern a clear policy with defined and achievable goals.
+Sentence: In Lebanon and Syria, Israel hopes that increasing strikes against Hezbollah and Iran will deter them from embarking on a full-scale war.
+Social Image: https://img.haarets.co.il/bs/0000018e-a168-d4f2-a9cf-b97ee2b70001/d8/e8/24ffa324479baad20a82a27cfa69/kitchen.JPG
+Sentiment Polarity: 0.0
+===
+Title: Iran calls for UN Security Council meeting after Israeli airstrike destroys Iranian consulate in Syria
+Context: Israel has carried out several hundred strikes on targets in government-controlled parts of Syria in recent years. But the number has escalated since the beginning of the nearly six-month Israeli-Hamas war in Gaza and periodic clashes between Israel's military and Hezbollah fighters along the Lebanon-Israel border. An Israeli airstrike in a Damascus neighborhood in December killed a longtime adviser of the Iranian paramilitary Revolutionary Guard in Syria, Seyed Razi Mousavi.
+Sentence: But the number has escalated since the beginning of the nearly six-month Israeli-Hamas war in Gaza and periodic clashes between Israel's military and Hezbollah fighters along the Lebanon-Israel border.
+Social Image: 
+Sentiment Polarity: 0.0
+===
+Title: Israel blamed as Gaza strike kills 7 staff of US food charity
+Context: attack. – Strike on Iran mission – The Gaza war has heightened fears of a wider regional conflagration, as Israel has exchanged fire with Iran-backed Hezbollah in Lebanon and violence has flared in Iraq, Syria and Yemen. Those fears intensified with the strikes in Damascus in which 11 people were killed according to Britain-based monitoring group the Syrian Observatory for Human Rights.
+Sentence: – Strike on Iran mission – The Gaza war has heightened fears of a wider regional conflagration, as Israel has exchanged fire with Iran-backed Hezbollah in Lebanon and violence has flared in Iraq, Syria and Yemen.
+Social Image: https://www.iraqinews.com/wp-content/uploads/2024/04/660bd0203105e1712050208.jpg
+Sentiment Polarity: 0.0
+===
+Title: UN observers wounded by shelling in southern Lebanon
+Context: in Lebanon. Israel and the armed group Hezbollah trade almost daily strikes across the border, which began with the start of the Israel-Gaza war following the 7 October Hamas attack on Israel. Hezbollah is a Lebanese Shia Muslim militant group with close ties to Iran and an ally of Hamas.
+Sentence: Israel and the armed group Hezbollah trade almost daily strikes across the border, which began with the start of the Israel-Gaza war following the 7 October Hamas attack on Israel.
+Social Image: http://www.businessghana.com/cms/img/news/2024-04-02-1337323.jpg
+Sentiment Polarity: 0.0
+===
+Title: Strike on Iran consulate in Syria revives darkest war memories
+Context: he told AFP. Israel has launched hundreds of air strikes in Syria since civil war broke out, targeting Iran-backed forces including Lebanon's Hezbollah movement as well as Syrian army positions and weapons depots. But the strikes have increased since Israel's war with Iran-backed Palestinian militant group Hamas began on October 7.
+Sentence: Israel has launched hundreds of air strikes in Syria since civil war broke out, targeting Iran-backed forces including Lebanon's Hezbollah movement as well as Syrian army positions and weapons depots.
+Social Image: https://www.iraqinews.com/wp-content/uploads/2024/04/660c39922a5e41712077202.jpg
+Sentiment Polarity: 0.0
+===
+Title: Middle East tensions are rising
+Context: Tehran's Hezbollah proxies in Lebanon fired hundreds of missiles into northern Israel, but failed to open a second front as the IDF had feared. Moreover, the Israelis did not launch a preventive war against Hezbollah, despite the threat it posed. Heavy US pressure has stayed the hand of the IDF, with Washington anxious to avoid a regional conflagration.
+Sentence: Moreover, the Israelis did not launch a preventive war against Hezbollah, despite the threat it posed.
+Social Image: https://s.yimg.com/ny/api/res/1.2/BczLCSuEeclLv7Vmme4yxA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NTI-/https://media.zenfs.com/en/the_telegraph_258/b97fb22be0871f73c59108346b0aac75
+Sentiment Polarity: 0.0
+===
+Title: Iran promises retaliation after airstrike | The Arkansas Democrat-Gazette
+Context: Israel, which has repeatedly targeted Iranian officers in Syria and in Lebanon, did not confirm Monday's attack. Iran provides money and weapons to Hezbollah, as well as Hamas and other Palestinian militant groups fighting Israel in Gaza. Clashes between Israel and Hezbollah along the Israeli-Lebanese border have increased since the war in Gaza began nearly six months ago. Iran's Supreme National Security Council, a key decision-making body, met late on Monday and decided on a "required"
+Sentence: Iran provides money and weapons to Hezbollah, as well as Hamas and other Palestinian militant groups fighting Israel in Gaza. Clashes between Israel and Hezbollah along the Israeli-Lebanese border have increased since the war in Gaza began nearly six months ago.
+Social Image: https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/206897304_206897050-05ae2d1d57724d42836e6d129cb8f999_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676
+Sentiment Polarity: -0.012499999999999997
+===
+Title: AP News in Brief at 12:04 a.m. EDT
+Context: Israel, which has repeatedly targeted Iranian officers in Syria and in Lebanon, did not confirm Monday's attack. Iran provides money and weapons to Hezbollah, as well as Hamas and other Palestinian militant groups fighting Israel in Gaza. Clashes between Israel and Hezbollah along the Israeli-Lebanese border have increased since the war in Gaza began nearly six months ag o. Taiwan's strongest earthquake in nearly 25 years damages buildings and causes a small tsunami TAIPEI, Taiwan (AP) — Taiwan's strongest earthquake in a quarter century rocked the island during the morning rush Wednesday, damaging buildings and creating a tsunami that washed ashore on southern Japanese islands.
+Sentence: Iran provides money and weapons to Hezbollah, as well as Hamas and other Palestinian militant groups fighting Israel in Gaza. Clashes between Israel and Hezbollah along the Israeli-Lebanese border have increased since the war in Gaza began nearly six months ag o.
+Social Image: https://bloximages.chicago2.vip.townnews.com/bdtonline.com/content/tncms/custom/image/eb1e85e6-05b9-11e7-b62c-6b1accec9988.jpg
+Sentiment Polarity: -0.012499999999999997
+===
+Title: Heavy clashes, more deadly aid chaos in war-ravaged Gaza – ENG.MIZZIMA.COM
+Context: The Israeli military said it killed the deputy commander of Hezbollah's rocket unit in south Lebanon in an air strike. In a new toll issued Saturday, a war monitor said the Israeli strikes in Syria on Friday killed seven Hezbollah members, seven Syrian pro-Iran fighters and 38 Syrian soldiers, the highest Syrian army toll in Israeli strikes since the Gaza war began. "We have turned from the ones who are repelling Hezbollah to the ones who are chasing them.
+Sentence: In a new toll issued Saturday, a war monitor said the Israeli strikes in Syria on Friday killed seven Hezbollah members, seven Syrian pro-Iran fighters and 38 Syrian soldiers, the highest Syrian army toll in Israeli strikes since the Gaza war began.
+Social Image: 
+Sentiment Polarity: -0.03181818181818183
+===
+Title: The Growing Hezbollah Threat to Israels North
+Context: Since its founding in 1982, the Shiite terrorist organization's entrenched position in southern Lebanon has posed a continual danger to the lives and wellbeing of both Israeli civilians and security personnel in northern Israel. Over the past 40 years (and, particularly, since Israel's withdrawal from southern Lebanon in 2000), the Hezbollah threat has occasionally escalated into full-blown violence between the Iran-backed terror proxy and Israel's military. The most dramatic example of this is the 2006 Second Lebanon War when the terror group kidnapped two Israeli reservists and directed an unprecedented volley of indiscriminate rocket fire at Israel's northern communities over the course of 34 days.
+Sentence: Over the past 40 years (and, particularly, since Israel's withdrawal from southern Lebanon in 2000), the Hezbollah threat has occasionally escalated into full-blown violence between the Iran-backed terror proxy and Israel's military.
+Social Image: 
+Sentiment Polarity: -0.03666666666666667
+===
+Title: Electronic Weapons: Destructive GPS Spoofing
+Context: The recent outbreak of spoofing was traced to a location near the Iranian capital, Tehran. It was not possible to discover who was responsible for the false signals, but one source was apparently Israel where the October 2023 war in Gaza led the Israel Defense Forces (IDF) in northern Israel to use it to thwart Hezbollah guided missile attacks. The IDF advised that GPS signals along Israel's northern border with Lebanon were disrupted because it is where Hezbollah launches its guided missiles from.
+Sentence: It was not possible to discover who was responsible for the false signals, but one source was apparently Israel where the October 2023 war in Gaza led the Israel Defense Forces (IDF) in northern Israel to use it to thwart Hezbollah guided missile attacks.
+Social Image: 
+Sentiment Polarity: -0.03750000000000002
+===
+Title: Press Briefing by IDF Spokesperson, Rear Admiral Daniel Hagari, April 1, 2024
+Context: We are investigating the incident to learn, draw lessons, and enhance our defense capabilities in the Eilat area and its surroundings. Today, in the north, we simultaneously targeted a series of ten Hezbollah targets in southern Lebanon, including launch sites, weapon storages, and other terror infrastructure using Air Force fighter jets. Additionally, in recent days, we eliminated two prominent Hezbollah terrorist commanders who, over the years and especially in recent months, have been involved in two significant threats in the north - anti-tank missiles and indirect fire.
+Sentence: Today, in the north, we simultaneously targeted a series of ten Hezbollah targets in southern Lebanon, including launch sites, weapon storages, and other terror infrastructure using Air Force fighter jets.
+Social Image: 
+Sentiment Polarity: -0.041666666666666664
+===
+Title: Tireless support for Palestinian resistance: Key Highlights from Resistance Axis leaders speeches
+Context: During the speeches, the leader of the Ansar Allah movement, Abdul-Malik al-Houthi, highlighted that: "We seek to enhance our missile and naval capabilities to support the Palestinian people further." Developing Middle East News Israel-Gaza War Updates Palestine Resistance Harakat Hezbollah Al-Nujaba Akram Al-Kaabi Palestinian Islamic Jihad Ziyad Al-Nakhalah Ansar Allah Abdul-Malik Al-Houthi Gaza Badr Organization Hadi Al-Amiri Next Palestinian Authority re-submits request for full UN membership Sudan suspends operations of Al Arabiya, Al Hadath, Sky News Arabia Previous
+Sentence: Developing Middle East News Israel-Gaza War Updates Palestine Resistance Harakat Hezbollah Al-Nujaba Akram Al-Kaabi Palestinian Islamic Jihad Ziyad Al-Nakhalah Ansar Allah Abdul-Malik Al-Houthi Gaza Badr Organization Hadi Al-Amiri Next Palestinian Authority re-submits request for full UN membership Sudan suspends operations of Al Arabiya, Al Hadath, Sky News Arabia Previous
+Social Image: https://www.lbcgroup.tv/uploadImages/DocumentImages/Doc-T-763837-638477478340808848.jpg
+Sentiment Polarity: 0.04583333333333333
+===
+Title: Lebanese official says landmine wounded UN observers
+Context: The Israeli army had told AFP: "We did not strike in the area". Israel and Hezbollah have exchanged near-daily fire since Palestinian militant group Hamas carried out an unprecedented attack on southern Israel on October 7, triggering war in Gaza. The cross-border hostilities have killed at least 349 people in Lebanon, mostly Hezbollah fighters, but also at least 68 civilians, according to an AFP tally. The fighting has displaced tens of thousands of people in southern Lebanon and in northern Israel, where the military says 10 soldiers and eight civilians have been killed.
+Sentence: Israel and Hezbollah have exchanged near-daily fire since Palestinian militant group Hamas carried out an unprecedented attack on southern Israel on October 7, triggering war in Gaza. The cross-border hostilities have killed at least 349 people in Lebanon, mostly Hezbollah fighters, but also at least 68 civilians, according to an AFP tally.
+Social Image: https://s.france24.com/media/display/f0703778-f1ad-11ee-b90d-005056a90284/w:1280/p:16x9/6f19cb3c65eda6b124dce061079ef32d240594c5.jpg
+Sentiment Polarity: 0.049999999999999996
+===
+Title: Bye, bye Bibi: Netanyahu branded traitor in fourth night of protests
+Context: Prosecutors are pushing ahead with a corruption trial against him despite the war, and protesters tried to break through police barriers to get to his home on Tuesday for the second time in four days. Even his defense minister, Likud stalwart Yoav Gallant, is defying him over the deeply divisive issue of ultra-Orthodox Jews escaping compulsory military service even as the war in Gaza rages and another looms with Hezbollah in Lebanon. Netanyahu has long relied on the support of religious parties to govern.
+Sentence: Even his defense minister, Likud stalwart Yoav Gallant, is defying him over the deeply divisive issue of ultra-Orthodox Jews escaping compulsory military service even as the war in Gaza rages and another looms with Hezbollah in Lebanon.
+Social Image: http://images2.naharnet.com/images/260421/w140.jpg
+Sentiment Polarity: -0.05
+===
+Title: Bye, bye Bibi: Is the game up for Israels great survivor Netanyahu?
+Context: Prosecutors are pushing ahead with a corruption trial against him despite the war, and protesters tried to break through police barriers to get to his home on Tuesday for the second time in four days. Even his defence minister, Likud stalwart Yoav Gallant, is defying him over the deeply divisive issue of ultra-Orthodox Jews escaping compulsory military service even as the war in Gaza rages and another looms with Iran-backed Hezbollah in Lebanon. Netanyahu has long relied on the support of religious parties to govern.
+Sentence: Even his defence minister, Likud stalwart Yoav Gallant, is defying him over the deeply divisive issue of ultra-Orthodox Jews escaping compulsory military service even as the war in Gaza rages and another looms with Iran-backed Hezbollah in Lebanon.
+Social Image: https://www.thestandard.com.hk/images/instant_news/20240403/20240403162203contentPhoto1.jpg
+Sentiment Polarity: -0.05
+===
+Title: Israel Braces for Iran Payback Attacks Across Middle East
+Context: into a regional war, experts say. Since the outbreak of the war in Gaza nearly six months ago, Iran's proxies have stepped up attacks, leading to near daily cross-border exchanges between Hezbollah and Israel, and frequent Houthi attacks on Red Sea shipping. Hamas, which rules Gaza and attacked Israel on Oct. 7, is also backed by Iran. Israel has grown increasingly impatient with the daily exchanges of fire with Hezbollah, which have escalated in recent days, and warned of the possibility of a full-fledged war.
+Sentence: Since the outbreak of the war in Gaza nearly six months ago, Iran's proxies have stepped up attacks, leading to near daily cross-border exchanges between Hezbollah and Israel, and frequent Houthi attacks on Red Sea shipping.
+Social Image: https://www.newsmax.com/CMSPages/GetFile.aspx?guid=431670f1-997c-429f-bb0f-57e6011d87ff&SiteName=Newsmax
+Sentiment Polarity: 0.06000000000000001
+===
+Title: Iran vows retaliation for Israeli strike on Syrian consulate
+Context: Hezbollah said in a statement. Since the outbreak of the war in Gaza nearly six months ago, those proxies have stepped up attacks, leading to near daily cross-border exchanges between Hezbollah and Israel, and frequent Houthi attacks on Red Sea shipping. Houthi rebels have also been launching long-range missiles toward Israel, including on Monday.
+Sentence: Since the outbreak of the war in Gaza nearly six months ago, those proxies have stepped up attacks, leading to near daily cross-border exchanges between Hezbollah and Israel, and frequent Houthi attacks on Red Sea shipping.
+Social Image: 
+Sentiment Polarity: 0.06000000000000001
+===
+Title: The war is far from over, and Israelis still need help - opinion
+Context: Unfortunately, that shell is still lethal, and while life is slowly returning to normal, the war itself is far from over. IDF soldiers are still falling, and there still remains the possibility – some would say probability – of a major escalation of war in the North, as Hezbollah continues to attack Israeli towns and cities. In other words, the IDF's work is far from done – and its need for assistance and equipment is as great as ever.
+Sentence: IDF soldiers are still falling, and there still remains the possibility – some would say probability – of a major escalation of war in the North, as Hezbollah continues to attack Israeli towns and cities.
+Social Image: https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/589364
+Sentiment Polarity: 0.0625
+===
+Title: The Latest | Israeli airstrike that killed aid workers...
+Context: Israel, which has repeatedly targeted Iranian officers in Syria and in Lebanon, did not comment on Monday's attack. Iran has vowed to respond to the attack that killed 12 people including two Iranian generals and a member of the Lebanese militant Hezbollah group, which is backed by Iran. Israel, increasingly impatient with months of cross-border fighting with Hezbollah, has warned of the possibility of a full-fledged war. The U.S.
+Sentence: Iran has vowed to respond to the attack that killed 12 people including two Iranian generals and a member of the Lebanese militant Hezbollah group, which is backed by Iran. Israel, increasingly impatient with months of cross-border fighting with Hezbollah, has warned of the possibility of a full-fledged war.
+Social Image: https://7b1de02a7bcf9c1df487-6849f9022b05f72b83236695aa4e9a0a.ssl.cf2.rackcdn.com/uploads/ap/2024/1235947/image-0.jpg
+Sentiment Polarity: 0.06666666666666665
+===
+Title: Israel-Hezbollah border clashes: Latest developments
+Context: in the Biranit post. Since the outbreak of the war in Gaza nearly six months ago, Hezbollah has stepped up attacks, leading to near daily cross-border exchanges between Hezbollah and Israel. Hezbollah, which has a powerful arsenal of rockets and missiles, says its attacks on Israel are in support of the embattled residents in Gaza and Hamas.
+Sentence: Since the outbreak of the war in Gaza nearly six months ago, Hezbollah has stepped up attacks, leading to near daily cross-border exchanges between Hezbollah and Israel.
+Social Image: http://images1.naharnet.com/images/260412/w140.png
+Sentiment Polarity: 0.06666666666666667
+===
+Title: Bowen: The Israel-Gaza war is at a crossroads
+Context: A shadow war has been fought here in parallel with the war in Gaza since last October. It started with Hezbollah, the powerful Lebanese militia and political movement attacking Israel, in support of Hamas in Gaza. It was not the onslaught that the Hamas leadership was hoping for - neither Hezbollah or its patrons in Tehran wanted an all-out war with Israel and, indirectly, its American backers. The Americans did not want that either and restrained Israel's instinct to respond in full force.
+Sentence: It started with Hezbollah, the powerful Lebanese militia and political movement attacking Israel, in support of Hamas in Gaza. It was not the onslaught that the Hamas leadership was hoping for - neither Hezbollah or its patrons in Tehran wanted an all-out war with Israel and, indirectly, its American backers.
+Social Image: https://ichef.bbci.co.uk/news/1024/branded_news/AEA3/production/_133070744_gettyimages-2036326724.jpg
+Sentiment Polarity: 0.09999999999999999
+===
+Title: With a hopeless war in Gaza, how anti-Netanyahu protests are giving Israelis agency
+Context: Hundreds of tents were erected around the parliament so the protesters could stay there for days. Along with distraught families of hostages, there are others directly impacted by the impasse in the war such as people from the north of Israel who have been evacuated from their homes for the last five months because of the constant shelling by Hezbollah. Then there are people from the south who cannot return to their burnt homes and vandalised kibbutzim.
+Sentence: Along with distraught families of hostages, there are others directly impacted by the impasse in the war such as people from the north of Israel who have been evacuated from their homes for the last five months because of the constant shelling by Hezbollah.
+Social Image: https://images.indianexpress.com/2024/04/Netanyahu_1600.jpg
+Sentiment Polarity: -0.1
+===
+Title: Strike In Syria Kills Top Iranian Commander
+Context: installation in Syria. Israel has also been engaging with Hezbollah in addition to its war with Hamas, just Sunday announcing its forces had killed a Hezbollah commander in a separate airstrike in Lebanon. But Israel in recent months has also been more regularly striking targets upstream of the proxies, including the IRGC and key intermediaries for Iran-backed groups.
+Sentence: Israel has also been engaging with Hezbollah in addition to its war with Hamas, just Sunday announcing its forces had killed a Hezbollah commander in a separate airstrike in Lebanon.
+Social Image: https://media.zenfs.com/en/the_dispatch_articles_597/4335969ec8bc9d1f6b1011746b5f96a6
+Sentiment Polarity: 0.1
+===
+Title: Israeli strike in Syria killed 2 generals, Iranian officials say
+Context: The strike appeared to signify an escalation of Israel's targeting of military officials from Iran, which supports militant groups fighting Israel in Gaza, and along its border with Lebanon. Since the war in Gaza began nearly six months ago, clashes have increased between Israel and Iran-backed Hezbollah militants based in Lebanon. Hamas, which rules Gaza and attacked Israel on Oct. 7, is also backed by Iran. Israel, which rarely acknowledges strikes against Iranian targets, said it had no comment on the latest attack in Syria, although a military spokesman blamed Iran for a drone attack early Monday against a naval base in southern Israel.
+Sentence: Since the war in Gaza began nearly six months ago, clashes have increased between Israel and Iran-backed Hezbollah militants based in Lebanon.
+Social Image: https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/a/24/a24edb49-4300-50f2-9e7e-af04e7b65723/660ae6422cbce.image.jpg?crop=1728%2C907%2C0%2C145
+Sentiment Polarity: 0.1
+===
+Title: Israeli army says aid worker deaths were grave mistake
+Context: And Poland demanded compensation for the families of the seven aid workers, one of whom is Polish. - Iran vows revenge - The Gaza war has ramped up tension between Israel and bitter foe Iran, as well as the groups it backs including Hezbollah in Lebanon. Violence has also flared in Iraq, Syria and Yemen.
+Sentence: - Iran vows revenge - The Gaza war has ramped up tension between Israel and bitter foe Iran, as well as the groups it backs including Hezbollah in Lebanon.
+Social Image: https://www.spxdaily.com/images-hg/gaza-strip-map-closeup-hg.jpg
+Sentiment Polarity: -0.1
+===
+Title: RIGHT SPEAK: ILLEGAL Migrant from Lebanon Caught at Border Admitted Hes a Hezbollah Terrorist Hoping to make a bomb — and was Headed for NY; Meet the Terrorist Next Door, Welcomed by Joe Biden: Bidens Broken Border has Allowed Terror Suspects to Cros...
+Context: Border agents continue to see a surge in migrants whose names appear on the terror watchlist entering the US illegally as crossings continue at record levels. Hezbollah, an Iran-backed terror group, has launched missiles into northern Israel following Hamas' attack on Oct. 7 that have killed about a dozen Israeli soldiers and seven civilians. Ebbadi didn't have documents when he entered the US, claiming he was robbed "with a knife"
+Sentence: Hezbollah, an Iran-backed terror group, has launched missiles into northern Israel following Hamas' attack on Oct. 7 that have killed about a dozen Israeli soldiers and seven civilians.
+Social Image: 
+Sentiment Polarity: -0.1
+===
+Title: Walter Bingham on 2024 US elections, Iran, Israel-Hamas war
+Context: Such is the spread of Iranian influence today. Although Hezbollah has thousands of sophisticated rockets pointing at all major centers in Israel, it does not want to escalate the restricted skirmishes about border disputes into a major war because it knows quite well that like Hamas, it can be similarly destroyed and, in the process, drag modern Lebanon into the abyss. Similarly, the Houthis are already feeling the American power and may eventually make their cost-benefit analysis and consider abandoning Iran. So, without the help of their proxy fighters and straining under the imposed sanctions and without nuclear weapons, Iran would be in no position to defeat America and Israel.
+Sentence: Although Hezbollah has thousands of sophisticated rockets pointing at all major centers in Israel, it does not want to escalate the restricted skirmishes about border disputes into a major war because it knows quite well that like Hamas, it can be similarly destroyed and, in the process, drag modern Lebanon into the abyss.
+Social Image: https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/589526
+Sentiment Polarity: 0.12083333333333335
+===
+Title: Threat in the north is the real reason the IDF hasnt gone into Rafah...yet
+Context: While there has been a gradual return of citizens to Sderot and some of the other communities near the Gaza border, more than 80,000 Israelis who were evacuated from towns and kibbutzim in the north are still waiting in temporary lodgings. The Israeli assessment remains that Hezbollah and its Iranian patrons are not interested in all-out war. But at the same time, Hezbollah has refused to pull back its Radwan forces to the Litani river.
+Sentence: The Israeli assessment remains that Hezbollah and its Iranian patrons are not interested in all-out war.
+Social Image: https://www.thejc.com/api/v1/twitterImage?articleId=contentid/1ac8lr665gehnc3fmo4&noOverlayText=true
+Sentiment Polarity: -0.125
+===
+Title: Northern Israel tourism collapsing: As of October 7, not a single tourist came
+Context: A hundred meters separate the line between compensation and evacuation by the government and life in the shadow of war amidst fears of an economic collapse in an area of northern Israel susceptible to Hezbollah attacks, yet not officially designated as an evacuation zone by the government. The Kerem Ben Zimra community lies 4,100 meters from the Lebanese border, where all tourism and recreational businesses have been closed down for over half a year.
+Sentence: A hundred meters separate the line between compensation and evacuation by the government and life in the shadow of war amidst fears of an economic collapse in an area of northern Israel susceptible to Hezbollah attacks, yet not officially designated as an evacuation zone by the government.
+Social Image: https://ynet-pic1.yit.co.il/picserver5/crop_images/2024/04/03/Bk7Rjw51R/Bk7Rjw51R_0_0_1024_576_0_large.jpg
+Sentiment Polarity: 0.2
+===
+Title: Opinion: Oct. 7 shattered Netanyahus legacy. The war saved him — for now.
+Context: Enterprising politicians have begun to jockey for the place of his successor. Defense Minister Yoav Gallant, who Mr. Netanyahu fired and then unfired at the height of the protests last year, has attempted to stake out an even more hawkish stance on the war to appeal to right-wing voters; it was Mr. Gallant who reportedly pushed for a pre-emptive strike against Hezbollah in Lebanon after Oct. 7. Nir Barkat, the former mayor of Jerusalem and Israel's richest politician, has tried to take Mr. Netanyahu to task publicly for mishandling the economic crisis that has accompanied the war.
+Sentence: Defense Minister Yoav Gallant, who Mr. Netanyahu fired and then unfired at the height of the protests last year, has attempted to stake out an even more hawkish stance on the war to appeal to right-wing voters; it was Mr. Gallant who reportedly pushed for a pre-emptive strike against Hezbollah in Lebanon after Oct. 7.
+Social Image: https://www.sltrib.com/resizer/w6DQShgum4UZxLPLo9k5qyG637Y=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/sltrib/Q6JR3OKUKVHKXK7C547RDQOOWA.jpg
+Sentiment Polarity: 0.25
+===
+Title: Day off in Washington for hero mine-clearance dog
+Context: In some Middle Eastern communities dogs and dog-handlers are shunned, but Solh said his fellow Lebanese honor the life-saving work he and his eager friend do. Most of the mines that Astra locates were left during Lebanon's 1975-1991 civil war, but she also finds bombs dropped in the 2006 war between Israel and Hezbollah. The Marshall Legacy Institute, working with the US State Department and private sponsors -- including individuals who adopt dogs -- has provided 205 dogs in 11 countries.
+Sentence: Most of the mines that Astra locates were left during Lebanon's 1975-1991 civil war, but she also finds bombs dropped in the 2006 war between Israel and Hezbollah.
+Social Image: 
+Sentiment Polarity: 0.25
+===
+Title: Israel Strikes Iran Consulate in Syria, Kills IRGC Commander
+Context: "From Iran's perspective, they are one and the same." The other potential worst-case scenario is an Iranian retaliation spiraling into a full-fledged war between Israel and Hezbollah, Iran's most powerful proxy militant group. Efforts to defuse tensions between Israel and Hezbollah along Lebanon's southern border, including by top Biden administration envoys, have so far foundered, turning the Israel-Lebanon border into a major potential flash point.
+Sentence: The other potential worst-case scenario is an Iranian retaliation spiraling into a full-fledged war between Israel and Hezbollah, Iran's most powerful proxy militant group.
+Social Image: https://foreignpolicy.com/wp-content/uploads/2024/04/Israel-Strike-Syria-Iran-IRGC-GettyImages-2123618517.jpg
+Sentiment Polarity: 0.255
+===
+Title: 5 ways Iran may retaliate against Israel for Damascus strike
+Context: Such groups have, however, already been engaged with Israel anyway since October 7. While Hamas is already fighting the war in Gaza, Lebanon-based Hezbollah too has been battling Israel and the country has been preparing for a potential full-fledged war with the group for months. It has vacated 40 communities along the Lebanese border amid border skirmishes and cross-border strikes.
+Sentence: While Hamas is already fighting the war in Gaza, Lebanon-based Hezbollah too has been battling Israel and the country has been preparing for a potential full-fledged war with the group for months.
+Social Image: https://images.firstpost.com/uploads/2024/04/Untitled-design-11-2024-04-3e4d009d20d9488e4e6947bcae0e1ce7.jpg?im=FitAndFill=(1200,675)
+Sentiment Polarity: 0.3
+===
+Title: Israeli Provocations & Irans Options
+Context: The militia is said to have some 150,000 rockets and precision guided munitions in close proximity to Israel and has proven its ability to strike deep into Israeli territory. But Israel has been preparing for war with Hezbollah for months, having evacuated more than 40 communities in its north. The two sides have been engaging in skirmishes that have been confined to a few kilometers on each side of the border, although Israel last month struck as deep as 100 kilometers into Lebanon.
+Sentence: But Israel has been preparing for war with Hezbollah for months, having evacuated more than 40 communities in its north.
+Social Image: https://menafn.com/updates/pr/2024-04/02/KO_4ea74image_story.jpg
+Sentiment Polarity: 0.5
+===
+Title: Fitch removes Israel from rating watch negative, keeps A+ rating
+Context: it said. Fitch said that while it was not its base case, there was a risk the war could expand beyond Hamas in Gaza to Hezbollah in Lebanon, to Iranian groups or elsewhere in the region. "Such large-scale escalation … could result in significant additional military spending, destruction of infrastructure, sustained change in consumer and investment sentiment, and thus lead to a large deterioration of Israel's credit metrics,"
+Sentence: Fitch said that while it was not its base case, there was a risk the war could expand beyond Hamas in Gaza to Hezbollah in Lebanon, to Iranian groups or elsewhere in the region.
+Social Image: https://cyprus-mail.com/wp-content/uploads/2022/08/fitch-ratings-rating-agency.jpg
+Sentiment Polarity: -0.8
+===
